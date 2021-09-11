@@ -6,7 +6,7 @@ It is important to make the rental bike available and accessible to the public, 
 
 The studied dataset contains weather information which are the features (Temperature, Humidity, Wind speed, Visibility, Dew point, Solar radiation, Snowfall, Rainfall), the target is the number of bikes rented per hour and date information. The dataset presents the company's data between December the 1st of 2017 and finishes one year later.
 
-# How many bikes are rented per hour in function of weather conditions ?
+# How many bikes are rented per hour in function of weather conditions ???
 The goal of the company Seoul Bike is providing the city with a stable supply of rental bikes. It becomes a major concern to keep user satisfied. The crucial part is the prediction of bike count rents at each hour for a stable supply of rental bikes. We can suppose that this study could be reported to the company 'Seoul Bikes'. We think it could help them knowing if yes or not they have to supply bikes stations in the city, in order to keep a good satisfaction of the customers.
 
 You can find the dataset necessary for the analysis on following link : https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand#
